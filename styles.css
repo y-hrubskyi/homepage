@@ -213,6 +213,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  list-style: none;
 }
 
 .project-experience-list-item a {
